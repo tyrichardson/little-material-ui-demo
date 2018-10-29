@@ -1,3 +1,5 @@
+This project is from Coding the Smart Way's tutorial on Material-UI for React, and it uses the contentful API.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
